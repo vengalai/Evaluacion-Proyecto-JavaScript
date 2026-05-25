@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Registro</title>
+
+    <link
+    rel="stylesheet"
+    href="css/style.css"
+    >
+
+</head>
+
+<body>
+
+<header>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            El Rincón del Carmen
+        </div>
+
+        <div class="nav-center">
+
+            <a href="index.html">
+                Inicio
+            </a>
+
+            <a href="reservas.html">
+                Reservas
+            </a>
+
+            <a href="contacto.html">
+                Contacto
+            </a>
+
+        </div>
+
+        <div class="nav-right">
+
+            <a href="login.html">
+                Login
+            </a>
+
+            <a href="register.html">
+                Registro
+            </a>
+
+        </div>
+
+    </nav>
+
+</header>
+
+<section class="form-page">
+
+    <div class="form-container">
+
+        <h1>
+            Registro
+        </h1>
+
+        <form id="registerForm">
+
+            <input
+            type="text"
+            id="nombre"
+            placeholder="Nombre completo"
+            required
+            >
+
+            <input
+            type="text"
+            id="identificacion"
+            placeholder="Identificación"
+            required
+            >
+
+            <input
+            type="text"
+            id="nacionalidad"
+            placeholder="Nacionalidad"
+            required
+            >
+
+            <input
+            type="text"
+            id="telefono"
+            placeholder="Teléfono"
+            required
+            >
+
+            <input
+            type="email"
+            id="email"
+            placeholder="Correo"
+            required
+            >
+
+            <input
+            type="password"
+            id="password"
+            placeholder="Contraseña"
+            required
+            >
+
+            <button type="submit">
+                Registrarse
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+<script src="js/database.js"></script>
+<script src="js/navbar.js"></script>
+<script src="js/auth.js"></script>
+
+</body>
+</html>

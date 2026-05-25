@@ -1,0 +1,286 @@
+[
+{
+    "id": 1,
+    "nombre": "Suite Premium",
+    "precio": 350000,
+    "personas": 2,
+    "camas": 1,
+    "ciudad": "Bogotá",
+    "servicios": [
+        "WiFi",
+        "Jacuzzi",
+        "Minibar",
+        "TV"
+    ],
+    "fechas": "10 Mayo - 20 Mayo",
+    "imagenes": [
+        "assets/img/Suite-Premium-1.jpg",
+        "assets/img/Suite-Premium-2.jpg",
+        "assets/img/Suite-Premium-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 2,
+    "nombre": "Apartamento Familiar",
+    "precio": 480000,
+    "personas": 5,
+    "camas": 3,
+    "ciudad": "Medellín",
+    "servicios": [
+        "WiFi",
+        "Piscina",
+        "Cocina",
+        "Netflix"
+    ],
+    "fechas": "15 Mayo - 28 Mayo",
+    "imagenes": [
+        "assets/img/Apartamento-Familiar-1.jpg",
+        "assets/img/Apartamento-Familiar-2.jpg",
+        "assets/img/Apartamento-Familiar-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 3,
+    "nombre": "Loft Ejecutivo",
+    "precio": 220000,
+    "personas": 2,
+    "camas": 1,
+    "ciudad": "Cali",
+    "servicios": [
+        "WiFi",
+        "Aire acondicionado",
+        "TV"
+    ],
+    "fechas": "5 Mayo - 25 Mayo",
+    "imagenes": [
+        "assets/img/Loft-Ejecutivo-1.jpg",
+        "assets/img/Loft-Ejecutivo-2.jpg",
+        "assets/img/Loft-Ejecutivo-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 4,
+    "nombre": "Cabaña Privada",
+    "precio": 870000,
+    "personas": 2,
+    "camas": 2,
+    "ciudad": "Guatapé",
+    "servicios": [
+        "WiFi",
+        "Piscina",
+        "Cocina",
+        "Hermosas vistas"
+    ],
+    "fechas": "7 Junio - 18 Junio",
+    "imagenes": [
+        "assets/img/Cabana-Privada-1.jpg",
+        "assets/img/Cabana-Privada-2.jpg",
+        "assets/img/Cabana-Privada-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 5,
+    "nombre": "Villa Tropical",
+    "precio": 950000,
+    "personas": 6,
+    "camas": 4,
+    "ciudad": "Cartagena",
+    "servicios": [
+        "WiFi",
+        "Piscina privada",
+        "Jacuzzi",
+        "Netflix"
+    ],
+    "fechas": "1 Julio - 15 Julio",
+    "imagenes": [
+        "assets/img/Villa-Tropical-1.jpg",
+        "assets/img/Villa-Tropical-2.jpg",
+        "assets/img/Villa-Tropical-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 6,
+    "nombre": "Penthouse Real",
+    "precio": 1200000,
+    "personas": 8,
+    "camas": 5,
+    "ciudad": "Bogotá",
+    "servicios": [
+        "WiFi",
+        "Terraza",
+        "Sauna",
+        "TV 4K"
+    ],
+    "fechas": "10 Julio - 30 Julio",
+    "imagenes": [
+        "assets/img/Penthouse-Real-1.jpg",
+        "assets/img/Penthouse-Real-2.jpg",
+        "assets/img/Penthouse-Real-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 7,
+    "nombre": "Casa Colonial",
+    "precio": 540000,
+    "personas": 4,
+    "camas": 2,
+    "ciudad": "Santa Marta",
+    "servicios": [
+        "WiFi",
+        "Patio",
+        "Aire acondicionado",
+        "TV"
+    ],
+    "fechas": "5 Agosto - 20 Agosto",
+    "imagenes": [
+        "assets/img/Casa-Colonial-1.jpg",
+        "assets/img/Casa-Colonial-2.jpg",
+        "assets/img/Casa-Colonial-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 8,
+    "nombre": "Hotel Paraíso",
+    "precio": 430000,
+    "personas": 3,
+    "camas": 2,
+    "ciudad": "San Andrés",
+    "servicios": [
+        "WiFi",
+        "Desayuno incluido",
+        "Piscina",
+        "Vista al mar"
+    ],
+    "fechas": "12 Junio - 22 Junio",
+    "imagenes": [
+        "assets/img/Hotel-Paraiso-1.jpg",
+        "assets/img/Hotel-Paraiso-2.jpg",
+        "assets/img/Hotel-Paraiso-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 9,
+    "nombre": "Cabaña Nevada",
+    "precio": 610000,
+    "personas": 5,
+    "camas": 3,
+    "ciudad": "Boyacá",
+    "servicios": [
+        "Chimenea",
+        "WiFi",
+        "Cocina",
+        "Vista a la montaña"
+    ],
+    "fechas": "3 Junio - 19 Junio",
+    "imagenes": [
+        "assets/img/Cabana-Nevada-1.jpg",
+        "assets/img/Cabana-Nevada-2.jpg",
+        "assets/img/Cabana-Nevada-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 10,
+    "nombre": "Loft Moderno",
+    "precio": 300000,
+    "personas": 2,
+    "camas": 1,
+    "ciudad": "Barranquilla",
+    "servicios": [
+        "WiFi",
+        "Netflix",
+        "Aire acondicionado",
+        "Cocina"
+    ],
+    "fechas": "8 Junio - 24 Junio",
+    "imagenes": [
+        "assets/img/Loft-Moderno-1.jpg",
+        "assets/img/Loft-Moderno-2.jpg",
+        "assets/img/Loft-Moderno-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 11,
+    "nombre": "Eco Hotel Verde",
+    "precio": 470000,
+    "personas": 4,
+    "camas": 2,
+    "ciudad": "Amazonas",
+    "servicios": [
+        "Tours",
+        "WiFi",
+        "Comida incluida",
+        "Naturaleza"
+    ],
+    "fechas": "2 Julio - 18 Julio",
+    "imagenes": [
+        "assets/img/Eco-Hotel-Verde-1.jpg",
+        "assets/img/Eco-Hotel-Verde-2.jpg",
+        "assets/img/Eco-Hotel-Verde-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 12,
+    "nombre": "Casa Campestre",
+    "precio": 780000,
+    "personas": 7,
+    "camas": 4,
+    "ciudad": "Pereira",
+    "servicios": [
+        "Piscina",
+        "BBQ",
+        "WiFi",
+        "Parqueadero"
+    ],
+    "fechas": "9 Julio - 25 Julio",
+    "imagenes": [
+        "assets/img/Casa-Campestre-1.jpg",
+        "assets/img/Casa-Campestre-2.jpg",
+        "assets/img/Casa-Campestre-3.jpg"
+    ],
+    "reservada": false
+},
+
+{
+    "id": 13,
+    "nombre": "Suite Diamante",
+    "precio": 1500000,
+    "personas": 2,
+    "camas": 1,
+    "ciudad": "Cartagena",
+    "servicios": [
+        "Jacuzzi",
+        "Vista al mar",
+        "WiFi",
+        "Minibar"
+    ],
+    "fechas": "1 Agosto - 12 Agosto",
+    "imagenes": [
+        "assets/img/Suite-Diamante-1.jpg",
+        "assets/img/Suite-Diamante-2.jpg",
+        "assets/img/Suite-Diamante-3.jpg"
+    ],
+    "reservada": false
+}
+]

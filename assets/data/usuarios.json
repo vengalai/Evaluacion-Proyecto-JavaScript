@@ -1,0 +1,13 @@
+[
+    {
+        "nombre": "Administrador",
+        "identificacion": "0000000001",
+        "nacionalidad": "Colombia",
+        "telefono": "3000000000",
+        "email": "admin@gmail.com",
+        "password": "admin123",
+        "admin": true,
+        "reserva": null,
+        "favoritos": []
+    }
+]
